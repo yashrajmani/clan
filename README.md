@@ -1,6 +1,12 @@
-# clan
+# CLAN
 
-A new Flutter project.
+## UI TASK FOR : Camp Yellow 
+
+### Mobile App Development internship
+
+## DOWNLOAD THE APK : https://drive.google.com/file/d/1xPRKwbJPmbi4yPp4v11aD_rOoeJ8KgIF/view?usp=sharing
+
+## VIDEO DEMO : 
 
 ## Getting Started
 
