@@ -10,7 +10,7 @@
 
 ## DOWNLOAD THE APK : https://drive.google.com/file/d/1xPRKwbJPmbi4yPp4v11aD_rOoeJ8KgIF/view?usp=sharing
 
-## VIDEO DEMO : 
+## VIDEO DEMO : https://drive.google.com/file/d/1GVi0rdIRd2CNMKDHIiEt4yqZwQ7DY6ja/view?usp=sharing
 
 
 
